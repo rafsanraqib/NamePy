@@ -1,0 +1,25 @@
+body {
+  text-align:center;
+  background: url('arch.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+/* div {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+} */
+
+#name {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#s {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
